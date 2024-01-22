@@ -1,0 +1,4 @@
+El flujo de trabajo
+1 Hacer cambios
+2 Añadir cambios
+3 Hacer commit
